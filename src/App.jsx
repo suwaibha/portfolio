@@ -199,8 +199,13 @@ function AboutView() {
     <>
       <p className="headline">// about.js</p>
       <h1 className="h1">
-        Suwaibha Fatima <span className="accent">/</span> Full Stack Developer | Software Development Engineer (SDE)
+        Suwaibha Fatima 
+        {/* <br />
+        <span className="accent"></span> Full Stack Developer | Software Development Engineer (SDE) */}
       </h1>
+      <h2 className="h2">
+        Full Stack Developer | Software Development Engineer (SDE)
+      </h2>
       <p className="lede">
         Computer Science student building production-ready web applications using React, Node.js,
         Express, and MongoDB. Experienced in developing AI-powered platforms, recruitment systems,
