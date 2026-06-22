@@ -199,7 +199,7 @@ function AboutView() {
     <>
       <p className="headline">// about.js</p>
       <h1 className="h1">
-        Suwaibha Fatima <span className="accent">/</span> Full Stack Developer
+        Suwaibha Fatima <span className="accent">/</span> Full Stack Developer | Software Development Engineer (SDE)
       </h1>
       <p className="lede">
         Computer Science student building production-ready web applications using React, Node.js,
